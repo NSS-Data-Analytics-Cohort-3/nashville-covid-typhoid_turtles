@@ -131,3 +131,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# credentials file
+notebooks/credentials.py
+
+# hubnash workbook
+data/hubNashville_311_Service_Requests.csv
